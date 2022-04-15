@@ -1,0 +1,15 @@
+{
+  "name": "SvtccDocs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CnData07/SvtccDocs.git",
+  "author": "CnData07 <data07@126.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
