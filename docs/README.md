@@ -1,19 +1,20 @@
 ---
 home: true
-heroImage: /img/data.jpg
-heroText: 校园指南
+heroImage: /img/logo.png
+heroText: 校园生活指南
 tagline: 四川交通职业技术学院
-actionText: 快速了解 →
-actionLink: /zh/life/
+actionText: 快速入学 →
+actionLink: /新生/新生入校.html
 features:
-- title: 讲解清晰
-  details: 向大家公布学院最清晰的办法，展示巴萨八八八八八八八
-- title: 持续更新
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 资料齐全
+  details: 由在校学生开发本文档，更新速度快，第一时间将学院一手公开资料转载。
+- title: 服务同学
+  details: 为同学们提供一个信息桥梁，获取信息无障碍的平台。
+- title: 传播内容
+  details: 专门用于校园内的公告发布，传播信息的平台。希望大家一起分享知识。
 # footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
+# test
 
 ::: slot footer
 Powered By [VuePress](https://vuepress.vuejs.org) | Copyright © 2019-2022 [CnData07](https://github.com/CnData07)

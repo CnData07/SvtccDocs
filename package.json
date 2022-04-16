@@ -6,7 +6,8 @@
   "author": "CnData07 <data07@126.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
