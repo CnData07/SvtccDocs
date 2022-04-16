@@ -1,13 +1,13 @@
 ---
 home: true
 heroImage: /img/data.jpg
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /zh/guide/
+heroText: 校园指南
+tagline: 四川交通职业技术学院
+actionText: 快速了解 →
+actionLink: /zh/life/
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+- title: 讲解清晰
+  details: 向大家公布学院最清晰的办法，展示巴萨八八八八八八八
 - title: Vue驱动
   details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
 - title: 高性能
