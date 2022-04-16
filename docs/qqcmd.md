@@ -6,7 +6,7 @@ sidebar: auto
 ## 查服
 
 查询服务器状态，并显示在线玩家
-![查服](/img/cf.png)
+![查服](img/cf.png)
 
 ## /bind \<xboxid\>
 
