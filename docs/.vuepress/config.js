@@ -1,10 +1,10 @@
 module.exports = {
   base: "/SvtccDocs/",
   title: '校园生活指南',
-  logo: '/img/logo.png', // 导航栏logo
   description: '关于四川交通职业技术学院的校园生活指南',
 
   themeConfig: {
+    logo: '/img/data.jpg', // 导航栏logo
     nav: [
       { text: '首页', link: '/' },
       { text: '新生', link: '/新生/新生入校' },
@@ -17,6 +17,7 @@ module.exports = {
           { text: 'Other', link: '/游戏列表/02/' }
         ]}
       ]},
+      { text: 'Cndata07', link: 'http://wpa.qq.com/msgrd?v=3&uin=3334318317&site=qq&menu=yes' },
     ],
   },
   // permalink: "/:year/:month/:day/:slug",  //永久链接
