@@ -3,25 +3,45 @@ module.exports = {
   title: '校园生活指南',
   description: '关于四川交通职业技术学院的校园生活指南',
 
+
   themeConfig: {
     logo: '/img/data.jpg', // 导航栏logo
+    displayAllHeaders: true, // 默认值：false
+
+
+
+
+    sidebar: {
+      '/05.游戏列表/': [
+        '',     /* /foo/ */
+        '01',  /* /foo/one.html */
+        '02'   /* /foo/two.html */
+      ]
+    },
+    // sidebar: 'auto',
+
+
+
+
+
+
+
     nav: [
       { text: '首页', link: '/' },
-      { text: '新生', link: '/新生/新生入校' },
-      { text: '公共链接', link: '/公共链接/' },
-      { text: '校园服务', link: '/校园服务/' },
-      { text: '校园生活', link: '/校园生活/' },
-      { text: '游戏列表', link: '/游戏列表/' , items: [
+      { text: '新生', link: '/01.新生/新生入校' },
+      { text: '公共链接', link: '/02.公共链接/' },
+      { text: '校园服务', link: '/03.校园服务/' },
+      { text: '校园生活', link: '/04.校园生活/' },
+      { text: '游戏列表', link: '/05.游戏列表/' , items: [
         { text: '我的世界',items:[
-          { text: 'TopSky空岛服', link: '/游戏列表/01/' },
-          { text: 'Other', link: '/游戏列表/02/' }
+          { text: 'TopSky空岛服', link: '/05.游戏列表/01/' },
+          { text: 'Other', link: '/05.游戏列表/02/' }
         ]}
       ]},
       { text: 'Cndata07', link: 'http://wpa.qq.com/msgrd?v=3&uin=3334318317&site=qq&menu=yes' },
     ],
   },
   // permalink: "/:year/:month/:day/:slug",  //永久链接
-  sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
 
   // repo: 'http://github.com/SvtccDocs/', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
@@ -35,9 +55,9 @@ module.exports = {
     '.vuepress/config/htmlModules.js',
   ],
 
-  plugins: [
-    ["vuepress-plugin-auto-sidebar", {
-      // options
-    }]
-  ]
+  // plugins: [
+  //   ["vuepress-plugin-auto-sidebar", {
+  //     // options
+  //   }]
+  // ]
 }
