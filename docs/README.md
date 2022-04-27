@@ -14,7 +14,9 @@ features:
   details: 专门用于校园内的公告发布，传播信息的平台。希望大家一起分享知识。
 # footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
-# test
+# 共同编辑页面
+
+加入QQ频道，一起交流与编辑更好的页面！[点击加入](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=6jrMa&appChannel=share&businessType=9&from=246610&biz=ka')
 
 ::: slot footer
 Powered By [VuePress](https://vuepress.vuejs.org) | Copyright © 2019-2022 [CnData07](https://github.com/CnData07)

@@ -5,13 +5,19 @@
 
 ## 网站（网页）
 
+### 校园官网
+
 - [官网](http://www.svtcc.edu.cn/index.htm)
 - [学院简介](http://www.svtcc.edu.cn/xygk/xyjj.htm)
 - [招生在线（弹窗公告）](http://zsjyc.svtcc.edu.cn/)
 - [单独招生动态](http://zsjyc.svtcc.edu.cn/index/jydt.htm)
 - [单独招生报名系统](https://gzdz.zk789.cn/)
+- [公共服务链接](http://www.svtcc.edu.cn/ggfw.htm)
+
+### 分数线查询
+
 - [查询2022年单招录取分数线](http://zsjyc.svtcc.edu.cn/info/1107/1678.htm)
-- [点击查看拟录取名单](http://zsjyc.svtcc.edu.cn/info/1107/1684.htm)
+- [查询2021年单招录取分数线](http://zsjyc.svtcc.edu.cn/info/1107/1401.htm)
 
 ## 公众号
 
