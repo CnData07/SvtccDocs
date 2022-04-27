@@ -12,18 +12,25 @@ module.exports = {
 
 
     sidebar: {
+      '/01.新生/': [
+        '新生入校'
+      ],
+      '/02.公共链接/': [
+        ''
+      ],
+      '/03.校园服务/': [
+        ''
+      ],
+      '/04.校园生活/': [
+        '',
+        'op1'
+      ],
       '/05.游戏列表/': [
-        '',     /* /foo/ */
         '01',  /* /foo/one.html */
         '02'   /* /foo/two.html */
       ]
     },
     // sidebar: 'auto',
-
-
-
-
-
 
 
     nav: [
@@ -38,7 +45,7 @@ module.exports = {
           { text: 'Other', link: '/05.游戏列表/02/' }
         ]}
       ]},
-      { text: 'Cndata07', link: 'http://wpa.qq.com/msgrd?v=3&uin=3334318317&site=qq&menu=yes' },
+      { text: 'QQ频道', link: 'https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=6jrMa&appChannel=share&businessType=9&from=246610&biz=ka' },
     ],
   },
   // permalink: "/:year/:month/:day/:slug",  //永久链接

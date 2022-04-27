@@ -4,7 +4,7 @@ heroImage: /img/logo.png
 heroText: 校园生活指南
 tagline: 四川交通职业技术学院
 actionText: 快速入学 →
-actionLink: /新生/新生入校.html
+actionLink: 01.新生/新生入校.html
 features:
 - title: 资料齐全
   details: 由在校学生开发本文档，更新速度快，第一时间将学院一手公开资料转载。
