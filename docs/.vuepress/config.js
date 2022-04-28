@@ -2,12 +2,12 @@ module.exports = {
   base: "/SvtccDocs/",
   title: '校园生活指南',
   description: '关于四川交通职业技术学院的校园生活指南',
-
+  theme: 'vdoing'
 
   themeConfig: {
     logo: '/img/data.jpg', // 导航栏logo
     displayAllHeaders: true, // 默认值：false
-
+	
 
 
 
