@@ -10,8 +10,8 @@
     "vuepress-plugin-auto-sidebar": "^2.3.2"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   }
 }
