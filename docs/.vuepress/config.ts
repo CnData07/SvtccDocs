@@ -47,7 +47,7 @@ export default {
   // permalink: "/:year/:month/:day/:slug",  //永久链接
 
   searchMaxSuggestions: 10, // 搜索结果显示最大数
-  lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
+  lastUpdatedText: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
 
   displayAllHeaders: true, 
   // 默认值：false  设置为 true 来显示所有页面的标题链接：
