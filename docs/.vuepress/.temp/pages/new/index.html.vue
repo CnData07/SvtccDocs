@@ -1,6 +1,6 @@
 <template><div><h1 id="新生入校指南" tabindex="-1"><a class="header-anchor" href="#新生入校指南" aria-hidden="true">#</a> 新生入校指南</h1>
 <blockquote>
-<p>快速链接： <RouterLink to="/%E6%96%B0%E7%94%9F/%E6%96%B0%E7%94%9F%E5%85%A5%E6%A0%A1.html#%E4%BA%94%E3%80%81%E5%85%A5%E6%A0%A1%E5%87%86%E5%A4%87">开始报道</RouterLink></p>
+<p>快速链接： <RouterLink to="/new/%E6%96%B0%E7%94%9F%E5%85%A5%E6%A0%A1.html#%E4%BA%94%E3%80%81%E5%85%A5%E6%A0%A1%E5%87%86%E5%A4%87">开始报道</RouterLink></p>
 </blockquote>
 <h2 id="一、入校时间" tabindex="-1"><a class="header-anchor" href="#一、入校时间" aria-hidden="true">#</a> 一、入校时间</h2>
 <p>待定日期与时间</p>

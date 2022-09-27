@@ -20,37 +20,60 @@ export default {
       },
       {
         text: '新生入学',
-        link: '/新生/'
-      }
+        link: '/new/'
+      },
+      { text: '校园服务', link: '/03.校园服务/' },
+      { text: '校园生活', link: '/04.校园生活/' },
+      { text: '游戏列表', link: '/05.游戏列表/' },
+      { text: 'QQ频道', link: 'https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=6jrMa&appChannel=share&businessType=9&from=246610&biz=ka'}
     ],
-
-    sidebar: 'auto',
-
-
-    // nav: [
-    //   { text: '首页', link: '/' },
-    //   { text: '新生', link: '/01.新生/新生入校' },
-    //   { text: '校园服务', link: '/03.校园服务/' },
-    //   { text: '校园生活', link: '/04.校园生活/' },
-    //   { text: '游戏列表', link: '/05.游戏列表/' , items: [
-    //     { text: '我的世界',items:[
-    //       { text: 'TopSky空岛服', link: '/05.游戏列表/01/' },
-    //       { text: 'Other', link: '/05.游戏列表/02/' }
-    //     ]}
-    //   ]},
-    //   { text: 'QQ频道', link: 'https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=6jrMa&appChannel=share&businessType=9&from=246610&biz=ka'},
-    // ],
 
     docsRepo: 'https://gitlab.com/CnData07/SvtccDocs',
     docsBranch: 'gh-pages',
     docsDir: 'docs',
     editLinkPattern: ':repo/-/edit/:branch/:path',
 
-    lastUpdated: true,
-    lastUpdatedText: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
-    contributors: true,
-    contributorsText: '贡献者',
     editLink: true,
+    lastUpdated: true,
+    contributors: true,
+
+
+    // page meta
+    editLinkText: '在 GitHub 上编辑此页',
+    lastUpdatedText: '上次更新',
+    contributorsText: '贡献者',
+
+    // custom containers
+    tip: '提示',
+    warning: '注意',
+    danger: '警告',
+
+    notFound: [
+      '这里什么都没有',
+      '我们怎么到这来了？',
+      '这是一个 404 页面',
+      '看起来我们进入了错误的链接',
+      '如果你是通过正常途径进入了这个页面,请联系编辑者CnData07:3334318317(QQ)',
+    ],
+    backToHome: '返回首页',
+
+    // 侧边栏对象
+    // 不同子路径下的页面会使用不同的侧边栏
+    sidebar: {
+      '/new/': [
+        {
+          collapsible: true,
+          text: 'new',
+          children: [
+            '/new/index.md',
+            '/new/op1.md',
+          ],
+        },
+      ],
+    },
+
+
+
   }),
 
 

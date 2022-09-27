@@ -15,8 +15,10 @@ export const pagesData = {
   "v-928cd35c": () => import(/* webpackChunkName: "v-928cd35c" */"G:/Environment/Github Desktop/SvtccDocs/docs/.vuepress/.temp/pages/05.游戏列表/02.html.js").then(({ data }) => data),
   // path: /05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/
   "v-e92f5bb6": () => import(/* webpackChunkName: "v-e92f5bb6" */"G:/Environment/Github Desktop/SvtccDocs/docs/.vuepress/.temp/pages/05.游戏列表/index.html.js").then(({ data }) => data),
-  // path: /%E6%96%B0%E7%94%9F/
-  "v-14abbb74": () => import(/* webpackChunkName: "v-14abbb74" */"G:/Environment/Github Desktop/SvtccDocs/docs/.vuepress/.temp/pages/新生/index.html.js").then(({ data }) => data),
+  // path: /new/
+  "v-744a5908": () => import(/* webpackChunkName: "v-744a5908" */"G:/Environment/Github Desktop/SvtccDocs/docs/.vuepress/.temp/pages/new/index.html.js").then(({ data }) => data),
+  // path: /new/op1.html
+  "v-7cb7e971": () => import(/* webpackChunkName: "v-7cb7e971" */"G:/Environment/Github Desktop/SvtccDocs/docs/.vuepress/.temp/pages/new/op1.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"G:/Environment/Github Desktop/SvtccDocs/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
