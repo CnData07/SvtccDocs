@@ -79,7 +79,7 @@ export default {
           text: '公共链接',
           children:[
             '/campus/index.md',
-            '',
+            '/campus/xxxUnion.md',
           ],
         },
       ]
