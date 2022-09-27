@@ -12,18 +12,17 @@ export default {
     // 在这里进行配置
     logo: '/img/data.jpg', // 导航栏logo
 
-    sidebarDepth: 2,
+    sidebarDepth: 1,
     navbar: [
       {
         text: '首页',
         link: '/'
       },
       {
-        text: '新生入学',
-        link: '/new/'
+        text: '新生',
+        link: '/freshmen/'
       },
-      { text: '校园服务', link: '/03.校园服务/' },
-      { text: '校园生活', link: '/04.校园生活/' },
+      { text: '校园生活', link: '/campus/' },
       { text: '游戏列表', link: '/05.游戏列表/' },
       { text: 'QQ频道', link: 'https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=6jrMa&appChannel=share&businessType=9&from=246610&biz=ka'}
     ],
@@ -60,13 +59,13 @@ export default {
     // 侧边栏对象
     // 不同子路径下的页面会使用不同的侧边栏
     sidebar: {
-      '/new/': [
+      '/freshmen/': [
         {
           collapsible: true,
-          text: 'new',
+          text: '新生报道',
           children: [
-            '/new/index.md',
-            '/new/op1.md',
+            '/freshmen/index.md',
+            '/freshmen/op1.md',
           ],
         },
       ],

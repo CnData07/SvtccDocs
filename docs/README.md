@@ -5,7 +5,7 @@ heroText: 校园生活指南
 tagline: 四川交通职业技术学院
 actions:
   - text: 快速入学 →
-    link: /new/
+    link: /freshmen/
     type: primary
 navbar: true
 features:
