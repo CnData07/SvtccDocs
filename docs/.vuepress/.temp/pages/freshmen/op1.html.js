@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-8b06b252\",\"path\":\"/freshmen/op1.html\",\"title\":\"入校条件\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"AAAAAAAAAA\",\"slug\":\"aaaaaaaaaa\",\"link\":\"#aaaaaaaaaa\",\"children\":[]},{\"level\":2,\"title\":\"BBBBBBBBBB\",\"slug\":\"bbbbbbbbbb\",\"link\":\"#bbbbbbbbbb\",\"children\":[]},{\"level\":2,\"title\":\"CCCCCCCCCC\",\"slug\":\"cccccccccc\",\"link\":\"#cccccccccc\",\"children\":[]},{\"level\":2,\"title\":\"DDDDDDDDDD\",\"slug\":\"dddddddddd\",\"link\":\"#dddddddddd\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"freshmen/op1.md\"}")
+export const data = JSON.parse("{\"key\":\"v-8b06b252\",\"path\":\"/freshmen/op1.html\",\"title\":\"最新公告\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1664273487000,\"contributors\":[{\"name\":\"CnData07\",\"email\":\"data07@126.com\",\"commits\":1}]},\"filePathRelative\":\"freshmen/op1.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

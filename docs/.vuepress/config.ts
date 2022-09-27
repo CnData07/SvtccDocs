@@ -1,4 +1,5 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 
 export default {
   base: "/SvtccDocs/",
@@ -6,6 +7,9 @@ export default {
   description: '关于四川交通职业技术学院的校园生活指南',
 
 
+  plugins: [
+    backToTopPlugin(),
+  ],
 
 
   theme: defaultTheme({
@@ -61,20 +65,29 @@ export default {
     sidebar: {
       '/freshmen/': [
         {
-          collapsible: true,
+          collapsible: false,
           text: '新生报道',
           children: [
             '/freshmen/index.md',
-            '/freshmen/op1.md',
+            '/freshmen/new.md',
           ],
         },
       ],
+      '/campus/':[
+        {
+          collapsible:true,
+          text: '公共链接',
+          children:[
+            '/campus/index.md',
+            '',
+          ],
+        },
+      ]
     },
 
 
 
   }),
-
 
   // permalink: "/:year/:month/:day/:slug",  //永久链接
 
@@ -83,9 +96,12 @@ export default {
   displayAllHeaders: true,
   // 默认值：false  设置为 true 来显示所有页面的标题链接：
 
+
   // 监听文件变化并重新构建
   extraWatchFiles: [
     '.vuepress/config.js',
     '.vuepress/config/htmlModules.js',
   ],
+
+
 }

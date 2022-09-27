@@ -4,9 +4,8 @@ export const pagesRoutes = [
   ["v-95f6849a","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/01.html",{"title":"TopSky空岛服"},["/05.游戏列表/01.html","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/01","/05.游戏列表/01.md","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/01.md"]],
   ["v-928cd35c","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/02.html",{"title":"你好！"},["/05.游戏列表/02.html","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/02","/05.游戏列表/02.md","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/02.md"]],
   ["v-e92f5bb6","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/",{"title":"TopSky空岛服"},["/05.游戏列表/","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/index.html","/05.游戏列表/README.md","/05.%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8/README.md"]],
-  ["v-06044724","/freshmen/",{"title":"新生入校指南"},["/freshmen/index.html","/freshmen/index.md"]],
-  ["v-8b06b252","/freshmen/op1.html",{"title":"入校条件"},["/freshmen/op1","/freshmen/op1.md"]],
+  ["v-ea6dbbd2","/campus/",{"title":"学校官方链接"},["/campus/index.html","/campus/index.md"]],
+  ["v-06044724","/freshmen/",{"title":"最新公告"},["/freshmen/index.html","/freshmen/index.md"]],
+  ["v-f7abacb2","/freshmen/new.html",{"title":"新生入校指南"},["/freshmen/new","/freshmen/new.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
-  ["v-ea6dbbd2","/campus/",{"title":"学校官方链接"},["/campus/index.html","/campus/index.md"]],
-  ["v-ea6dbbd2","/campus/",{"title":"学校官方链接"},["/campus/index.html","/campus/index.md"]],
 ]

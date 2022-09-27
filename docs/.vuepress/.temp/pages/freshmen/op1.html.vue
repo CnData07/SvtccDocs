@@ -1,8 +1,8 @@
-<template><div><h1 id="入校条件" tabindex="-1"><a class="header-anchor" href="#入校条件" aria-hidden="true">#</a> 入校条件</h1>
-<h2 id="aaaaaaaaaa" tabindex="-1"><a class="header-anchor" href="#aaaaaaaaaa" aria-hidden="true">#</a> AAAAAAAAAA</h2>
-<h2 id="bbbbbbbbbb" tabindex="-1"><a class="header-anchor" href="#bbbbbbbbbb" aria-hidden="true">#</a> BBBBBBBBBB</h2>
-<h2 id="cccccccccc" tabindex="-1"><a class="header-anchor" href="#cccccccccc" aria-hidden="true">#</a> CCCCCCCCCC</h2>
-<h2 id="dddddddddd" tabindex="-1"><a class="header-anchor" href="#dddddddddd" aria-hidden="true">#</a> DDDDDDDDDD</h2>
+<template><div><h1 id="最新公告" tabindex="-1"><a class="header-anchor" href="#最新公告" aria-hidden="true">#</a> 最新公告</h1>
+<p>重要通知：</p>
+<p>鉴于当前疫情防控形势，9月13-14日新生现场报到推迟，具体时间另行通知；请未完成网上报到及缴费的同学务必于9月14日前完成，9月15日起开展线上教学，具体安排请点击此处查看。</p>
+<p>四川交通职业技术学院2022级新生官方班群已建立！点击此处，快来找找你所在的班级，尽快加入吧！</p>
+<p>请新生在规定时间内完成网上报到（点击此处直接访问新生报到系统电脑端）</p>
 </div></template>
 
 
