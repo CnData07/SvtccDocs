@@ -3,7 +3,7 @@
 <p>快速链接： <RouterLink to="/freshmen/%E6%96%B0%E7%94%9F%E5%85%A5%E6%A0%A1.html#%E4%BA%94%E3%80%81%E5%85%A5%E6%A0%A1%E5%87%86%E5%A4%87">开始报道</RouterLink></p>
 </blockquote>
 <h2 id="一、入校时间" tabindex="-1"><a class="header-anchor" href="#一、入校时间" aria-hidden="true">#</a> 一、入校时间</h2>
-<p>待定日期与时间</p>
+<p>10月8日、10月9日</p>
 <h2 id="二、学院地址" tabindex="-1"><a class="header-anchor" href="#二、学院地址" aria-hidden="true">#</a> 二、学院地址</h2>
 <p>四川交通职业技术学院（成都市温江区柳台大道东段208号）</p>
 <p>新生均从学院南门进入（新生可通过导航软件输入：<a href="https://surl.amap.com/1AuaDd45g19" target="_blank" rel="noopener noreferrer">四川交通职业技术学院南大门<ExternalLinkIcon/></a>）。</p>
@@ -40,13 +40,16 @@
 </thead>
 <tbody>
 <tr>
-<td>核酸检测阴性报告</td>
+<td>天府健康绿码</td>
 </tr>
 <tr>
-<td>健康码</td>
+<td>核酸检测阴性证明<Badge type="tip" text="省内24h" vertical="middle" /><Badge type="tip" text="省外48h" vertical="middle" /></td>
 </tr>
 <tr>
 <td>行程卡</td>
+</tr>
+<tr>
+<td>健康承诺书</td>
 </tr>
 </tbody>
 </table>
